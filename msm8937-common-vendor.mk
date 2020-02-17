@@ -103,7 +103,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/msm8937-common/proprietary/vendor/lib/libfamily_photo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libfamily_photo.so \
     vendor/motorola/msm8937-common/proprietary/lib/libimscamera_jni.so:system/lib/libimscamera_jni.so \
     vendor/motorola/msm8937-common/proprietary/lib/libimsmedia_jni.so:system/lib/libimsmedia_jni.so \
-    vendor/motorola/msm8937-common/proprietary/lib/libjson.so:system/lib/libjson.so \
     vendor/motorola/msm8937-common/proprietary/lib/libmemalloc.so:system/lib/libmemalloc.so \
     vendor/motorola/msm8937-common/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
     vendor/motorola/msm8937-common/proprietary/lib/libmmparser_lite.so:system/lib/libmmparser_lite.so \
